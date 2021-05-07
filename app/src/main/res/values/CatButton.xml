@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="catButton">
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:src">@drawable/cat_caricature</item>
+    </style>
+</resources>
